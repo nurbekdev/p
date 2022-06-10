@@ -447,7 +447,7 @@ const index: React.FC<indexProps> = ({}) => {
 
             <div className="project-card">
               <div className="project-card__left">
-                <h4 className="heading-4">HTML, SCSS, JAVASCRIPT, GSAP</h4>
+                <h4 className="heading-4">PYTHON, C++, ROBOTOTEXNIKA, AIOGRAM</h4>
               </div>
               <div
                 className="project-card__middle"
