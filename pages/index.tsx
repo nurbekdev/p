@@ -173,7 +173,7 @@ const index: React.FC<indexProps> = ({}) => {
               animate={{ x: 0, opacity: 1, transition: { ...transition } }}
               className="preloader__left"
             >
-              <img src="svg/YMK logo-14.png" alt="adeola logo" />
+              <img src="svg/ymk-logo.png" alt="adeola logo" />
             </motion.div>
             <motion.div
               initial={{ x: 10, opacity: 0 }}
