@@ -122,36 +122,36 @@ const index: React.FC<indexProps> = ({}) => {
     <>
       <div id="menu-target" data-scroll-container ref={refScroll}>
         <Head>
-          <link rel="icon" href="svg/favicon.svg" />
+          <link rel="icon" href="svg/ymk-logo.png" />
           <link href="https://adeolaadeoti.xyz/" rel="canonical" />
           <meta name="theme-color" content="#10101A" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
             content="#10101A"
           />
-          <title>Adeola Adeoti 🚀 &mdash; Frontend Devloper</title>
+          <title>Yosh Maslahatchilar Kengashi</title>
           <meta
             name="description"
-            content="I'm a self-taught Front End Developer and turning ideas into real life products is my calling."
+            content="Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!"
           />
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="Adeola Adeoti 🚀 &mdash; Frontend Devloper"
+            content="Yosh Maslahatchilar Kengashi"
           />
           <meta property="og:url" content="https://adeolaadeoti.xyz/" />
           <meta property="og:image" content="webp/preview-image.png" />
           <meta
             property="og:description"
-            content="I'm a self-taught Front End Developer and turning ideas into real life products is my calling."
+            content="Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!"
           />
           <meta
             name="twitter:title"
-            content="Adeola Adeoti 🚀 &mdash; Frontend Devloper"
+            content="Yosh maslahatchilar kengashi"
           />
           <meta
             name="twitter:description"
-            content="I'm a self-taught Front End Developer and turning ideas into real life products is my calling."
+            content="Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!"
           />
           <meta name="twitter:image" content="webp/preview-image.png" />
           <meta name="twitter:card" content="summary_large_image" />
@@ -277,48 +277,47 @@ const index: React.FC<indexProps> = ({}) => {
               </div>
             </div>
             <div className="header__footer--right">
-              <a href="https://github.com/adeolaadeoti" rel="noopener" target="_blank">
-                👾 GH
+              <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
+                 Telegram
               </a>
-              <a href="https://twitter.com/adeolajs" rel="noopener" target="_blank">
-                🐦 TW
+              <a href="https://instagram.com/yoshmaslahatchilar" rel="noopener" target="_blank">
+                Instagram
               </a>
-              <a href="https://www.linkedin.com/in/adeoladev" rel="noopener" target="_blank">
-                💼 LD
+              <a href="https://facebook.com/yoshmaslahatchilar" rel="noopener" target="_blank">
+                Facebook
               </a>
-              <a href="https://www.instagram.com/adeolaadeoti_" rel="noopener" target="_blank">
+              <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
                 {" "}
-                📸 IN
+                Telegram Bot
               </a>
             </div>
           </div>
         </div>
         <main className="container">
           <p className="about-text">
-            Hello stranger! 👋, my name is adeola and I am a frontend engineer,
-            passionate <br /> about digital products that help people experience
-            everyday life, not endure it.
+            Assalomu Alaykum! 👋, Bizning web saytimizga Xush kelibsiz
+             <br /> 🇺🇿 Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!
           </p>
           <section id="sectionProjects" className="section-projects">
             <h1 className="heading-1">
-              <span>Yeah, I work hard </span> <small>💼</small>
+              <span>Bizda </span> <small>💼</small>
             </h1>
             <p className="paragraph">
-              Each project is unique. Here are some of my works.
+              🚀 • Loyihalar <br />🏆 • Grantlar <br />🎯 • Maslahatlar
             </p>
 
             <div className="project-card">
               <div className="project-card__left">
                 <h4 className="heading-4">
-                  NEXT JS, LOCOMOTIVE SCROLL, FRAMER MOTION
+                 Foydali, yoshmaslahatchilar, polimer
                 </h4>
               </div>
               <div
                 className="project-card__middle"
                 data-displacement="webp/myDistorsionImage.webp"
               >
-                <img src="webp/alexxandria-1.webp" alt="alexxandria model" />
-                <img src="webp/alexxandria-2.webp" alt="alexxandria logo" />
+                <img src="webp/polimer.jpg" alt="alexxandria model" />
+                <img src="webp/polimer-2.jpg" alt="alexxandria logo" />
               </div>
               <div className="project-card__right">
                 <h2
@@ -328,16 +327,16 @@ const index: React.FC<indexProps> = ({}) => {
                   data-scroll-class="alexxandria-anim"
                   className="heading-2"
                 >
-                  Alexxandria
-                  <br /> Forque
+                  «Polimer» 
+                  <br /> Loyihasi
                 </h2>
                 <a
                 rel="noopener"
                   target="_blank"
-                  href="https://alexxandria.vercel.app/"
+                  href="https://youtu.be/YBGr82v5ji8"
                   className="project-card__link"
                 >
-                  VISIT THE WEBSITE
+                  Loyihani tomosha qiling
                 </a>
                 <div className="project-card__socials">
                   <a href="#">
