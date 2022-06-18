@@ -173,7 +173,7 @@ const index: React.FC<indexProps> = ({}) => {
               animate={{ x: 0, opacity: 1, transition: { ...transition } }}
               className="preloader__left"
             >
-              <img src="svg/adeola-logo-left.svg" alt="adeola logo" />
+              <img src="svg/YMK logo-14.png" alt="adeola logo" />
             </motion.div>
             <motion.div
               initial={{ x: 10, opacity: 0 }}
@@ -183,10 +183,10 @@ const index: React.FC<indexProps> = ({}) => {
               <p className="preloader__text">Loyihalar</p>
               <p className="preloader__text">Grantlar</p>
               <p className="preloader__text">Maslahatlar</p>
-              <p className="preloader__text">TYPESCRIPT</p>
-              <p className="preloader__text">REACT JS</p>
-              <p className="preloader__text">NEXT JS</p>
-              <p className="preloader__text">FRAMER MOTION</p>
+              <p className="preloader__text">Yoshlar</p>
+              <p className="preloader__text">Projects</p>
+              <p className="preloader__text">Grants</p>
+              <p className="preloader__text">Tips</p>
             </motion.div>
           </div>
         </motion.div>
