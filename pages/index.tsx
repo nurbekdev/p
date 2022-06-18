@@ -4,8 +4,7 @@ import { motion } from "framer-motion";
 import { Navigation } from "../components/Navigation/Navigation";
 import useSwr from "swr";
 import ReactGa from "react-ga";
-import "font-awesome-sprockets";
-import "font-awesome";
+
 
 
 interface indexProps {}
