@@ -4,6 +4,8 @@ import { motion } from "framer-motion";
 import { Navigation } from "../components/Navigation/Navigation";
 import useSwr from "swr";
 import ReactGa from "react-ga";
+import "font-awesome-sprockets";
+import "font-awesome";
 
 
 interface indexProps {}
@@ -278,7 +280,7 @@ const index: React.FC<indexProps> = ({}) => {
             </div>
             <div className="header__footer--right">
               <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
-                 Te..
+              <i class="fa fa-telegram" aria-hidden="true"></i>.
               </a>
               <a href="https://instagram.com/yoshmaslahatchilar" rel="noopener" target="_blank">
                 In..
