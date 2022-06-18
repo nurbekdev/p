@@ -278,17 +278,17 @@ const index: React.FC<indexProps> = ({}) => {
             </div>
             <div className="header__footer--right">
               <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
-                 Telegram
+                 Te..
               </a>
               <a href="https://instagram.com/yoshmaslahatchilar" rel="noopener" target="_blank">
-                Instagram
+                In..
               </a>
               <a href="https://facebook.com/yoshmaslahatchilar" rel="noopener" target="_blank">
-                Facebook
+                Fa..
               </a>
-              <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
+              <a href="https://www.youtube.com/channel/UCzHHvi8bAe0EYAiPH-tEm1Q" rel="noopener" target="_blank">
                 {" "}
-                Telegram Bot
+                YouTube..
               </a>
             </div>
           </div>
@@ -296,7 +296,7 @@ const index: React.FC<indexProps> = ({}) => {
         <main className="container">
           <p className="about-text">
             Assalomu Alaykum! 👋, Bizning web saytimizga Xush kelibsiz
-             <br /> 🇺🇿 Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!
+             <br />Turli siyosiy jarayonlarga yoshlar nigohi bilan qarab, maslahat beramiz!
           </p>
           <section id="sectionProjects" className="section-projects">
             <h1 className="heading-1">
@@ -502,10 +502,10 @@ const index: React.FC<indexProps> = ({}) => {
           >
             <div className="section-reviews__top">
               <h1 className="heading-1">
-                <span>Mmmm, a little brag </span> <small>😊</small>
+                <span>Biroz maqtanamiz </span> <small>😊</small>
               </h1>
               <p className="paragraph paragraph__sub">
-                What people are saying about my last portfolio
+                Obunachilarimizning biz haqimizda fikrlari
               </p>
             </div>
             <div className="section-reviews__bottom">
