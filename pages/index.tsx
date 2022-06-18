@@ -180,9 +180,9 @@ const index: React.FC<indexProps> = ({}) => {
               animate={{ x: 0, opacity: 1, transition: { ...transition } }}
               className="preloader__right"
             >
-              <p className="preloader__text">HTML</p>
-              <p className="preloader__text">CSS/SCSS</p>
-              <p className="preloader__text">JAVASCRIPT</p>
+              <p className="preloader__text">Loyihalar</p>
+              <p className="preloader__text">Grantlar</p>
+              <p className="preloader__text">Maslahatlar</p>
               <p className="preloader__text">TYPESCRIPT</p>
               <p className="preloader__text">REACT JS</p>
               <p className="preloader__text">NEXT JS</p>
@@ -199,20 +199,20 @@ const index: React.FC<indexProps> = ({}) => {
           <header className="header">
             <div className="header__hero">
               <div className="header__hero--heading">
-                <span>turning ideas into </span> <br />
-                <span>real life </span>
+                <span>Turli siyosiy jarayonlarga </span> <br />
+                <span>yoshlar  </span>
                 <span className="header__hero--heading-gradient">
-                  products{" "}
+                 nigohi{" "}
                 </span>
                 <br />
-                <span>is my calling.</span>
+                <span>bilan qarab, maslahat beramiz!</span>
               </div>
               <a
                 data-scroll-to
                 className="header__hero--cta"
                 href="#sectionProjects"
               >
-                VIEW PROJECTS
+                Bizning Loyihalar
               </a>
             </div>
           </header>
