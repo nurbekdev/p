@@ -48,7 +48,7 @@ export const Navigation = ({ isOpen, toggleOpen }: any) => {
             <span className="brand-logo__text-wrapper">
               <img
                 className="brand-logo__text"
-                src="svg/adeola-logo-right.webp"
+                src="svg/"
                 alt="Logo yosh maslahatchilar"
               />
             </span>
