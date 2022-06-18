@@ -280,17 +280,17 @@ const index: React.FC<indexProps> = ({}) => {
             </div>
             <div className="header__footer--right">
               <a href="https://t.me/yoshmaslahatchilar" rel="noopener" target="_blank">
-              <i class="fa fa-telegram" aria-hidden="true"></i>.
+              💼Te..
               </a>
               <a href="https://instagram.com/yoshmaslahatchilar" rel="noopener" target="_blank">
-                In..
+              📸In..
               </a>
               <a href="https://facebook.com/yoshmaslahatchilar" rel="noopener" target="_blank">
-                Fa..
+              🐦Fa..
               </a>
               <a href="https://www.youtube.com/channel/UCzHHvi8bAe0EYAiPH-tEm1Q" rel="noopener" target="_blank">
                 {" "}
-                YouTube..
+                👾 YouTube..
               </a>
             </div>
           </div>
